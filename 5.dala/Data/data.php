@@ -1,6 +1,5 @@
 <?php
 
-//sagrupēt pēc cēloņa, un slimības. php csv. nolasam datus, apstrada. kolekcija - klase kura ir parametri. apstrada datus pec semikola ar nosaukumu. veic apkopojumu par naves celoni.
 
 class Table {
 
